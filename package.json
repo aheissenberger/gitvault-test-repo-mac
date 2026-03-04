@@ -1,0 +1,16 @@
+{
+  "description": "-----BEGIN AGE ENCRYPTED FILE-----\nYWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBJWVowUHNRUTRZNE1uYU9p\nTzIvNzU4MXJta0txODdqcmlkN0JyZW5IMDFBClgvYUVBQnhYeE1wbm5kV0VYWlo1\nbWZQTExkVi8veDByQjVjaW9rNHFTSnMKLT4gOypxOiQtZ3JlYXNlIHBIbVtFIGJM\nPlsKOWF5RUNRRWZIS0Z0MzRNd29rYUp0dWhta010eDV0M01Gb2w3d2lHK1Y2TEQK\nLS0tIFFQd0w5alBCN1pSY3pSdnBCcTdkWmgrWXF4OUV2bmgzOHowUVk0Y0U3VVkK\nBcpqfSmMIgHnnEDrpP/oXJLDoNlmceqfSXrn19oJ3RwKN/RO/KexFZbTvA/kYEng\nzpniT0y40sgyhBJ4jHNj+lH2kFJcacsGi0f2jBVGbB/gsQTl99KU9GL+GrXZnonj\n51u6M9Yh9MUPWQ==\n-----END AGE ENCRYPTED FILE-----\n",
+  "devDependencies": {
+    "@types/node": "^24.0.0"
+  },
+  "engines": {
+    "node": ">=25"
+  },
+  "name": "node-typescript-native",
+  "private": true,
+  "scripts": {
+    "start": "node src/index.ts",
+    "typecheck": "pnpm --package=typescript dlx tsc --noEmit"
+  },
+  "type": "module"
+}

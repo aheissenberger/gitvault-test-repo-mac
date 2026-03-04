@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "chat.tools.terminal.autoApprove": {
+        "gitvault": true
+    }
+}
